@@ -24,7 +24,7 @@ A clean and modern browser-based typing speed test with real-time feedback and a
 No build step is required.
 
 1. Clone the repository.
-2. Open `/home/runner/work/typing-test/typing-test/index.html` in your browser.
+2. Open `index.html` in your browser.
 
 You can also use a local static server if preferred.
 
@@ -38,6 +38,6 @@ You can also use a local static server if preferred.
 
 ## Project Structure
 
-- `/home/runner/work/typing-test/typing-test/index.html` — App layout
-- `/home/runner/work/typing-test/typing-test/styles.css` — UI styling
-- `/home/runner/work/typing-test/typing-test/script.js` — Typing logic and chart rendering
+- `index.html` — App layout
+- `styles.css` — UI styling
+- `script.js` — Typing logic and chart rendering
